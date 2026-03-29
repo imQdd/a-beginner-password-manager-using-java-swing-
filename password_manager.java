@@ -211,16 +211,5 @@ public class password_manager {
             }
             
         });
-
-
-             
-
-
-
-
-
-        
-
-        
     }
 }
