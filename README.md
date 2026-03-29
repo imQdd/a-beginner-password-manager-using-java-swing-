@@ -1,0 +1,2 @@
+# a-beginner-password-manager-using-java-swing-
+a super basic and simple password manager i made as a way to learn and get used to java swing , it basically stores all ur passwords for u (the ones u give to it ofc) , it's still needs alot of polishing im planning to do to it, especially on the aesthetic wise since now its just text , but currently the logic seems to work fine
